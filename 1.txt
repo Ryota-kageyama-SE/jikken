@@ -1,1 +1,8 @@
 aaa
+
+1. commit
+2. fetch(dev->dev)
+3.pull(dev->dev)
+4.pull dev->(UC00)
+5. push
+
